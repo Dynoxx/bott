@@ -1,0 +1,18 @@
+❤️ Bot 'forcen' tarafından Pirates Takipçileri ve Üyeleri için yazılmıştır. Şaka şaka herkes kullanabiler :) ❤️
+Kurulum Aşaması ;
+1 - "./emojiler/" klasördeki emojileri sunucunuza yükleyin ve videoda göstereceğim şekilde idlerini alın.
+2 - "./vupsy/configs/" dosya yolundaki 'emojiconfig.json' içine girin ve idleri doğru yerlere girin.
+3 - "./vupsy/configs/" dosya yolundaki 'logconfig.json' içine girin ve videoda göstereceğim şekilde o kanalları açıp idlerini girin.
+4 - "./vupsy/configs/" dosya yolundaki 'rolconfig.json' içine girin ve videoda göstereceğim şekilde o rolleri açıp idlerini girin.
+5 - "./vupsy/configs/" dosya yolundaki 'serverconfig.json' içine girin ve gereken idleri ve tokeninizi girin.
+6 - (isteğe bağlı) "./events/" dosya yolundaki 'ready.js' içine girin ve bot özel durumunu istediğiniz gibi değiştirin.
+7 - Botun komutlarının içinde değiştirmeniz gereken bir yer yoktur. Sadece metin kısımlarını editleyecekseniz gerekli düzenlemeyi yapmanız yeterli olacaktır.
+8 - Localde çalıştıracak arkadaşlar cmd'de 'npm i' yazarsa yeterli olacaktır. Modüller kurulduktan sonra klasördeki başlat.bat dosyasına tıklayıp aktif edebilirler.
+9 - Glitch'de çalışacak arkadaşlara allah yardım etsin o platformdan bi halt anlamıyorum. Umarım kısa sürede orayı bırakırlar :)
+10- Arkadaşlar videonun tamamını eğer izlemeden buraya bakıyorsanız lütfen dönüp videoyu iyice izleyin. Videoda olan bir soru sorarsanız cevaplamam bilginiz olsun.
+11- Belki birkaç komutta mantıksal hatalar olabilir biraz karışık sistem tespit ettiğiniz bug v.b durumları lütfen bildirin gereken güncellemeyi yapalım.
+12- Buraya kadar geldiysen videoyu like'layıp yorumunu atıp abone olmuşsundur kralsın seviliyosun :) Yeni gelecek daha güzel altyapılar için takipte kal ❤️
+
+
+
+Dipnot: config dosyalarında 2 rol girmeniz gereken yerler ["",""] böyle olacaktır 2 rol arasında tırnak olmalıdır eğer tek rol yapacaksanı [""] arasına yazın
